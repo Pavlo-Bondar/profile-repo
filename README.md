@@ -179,12 +179,7 @@
     </td>
  </tr>
 <tr>
-     <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
+     
      <td align="center" width="96">
       <a href="#digitalocean">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
@@ -235,22 +230,6 @@
 <br/>
 
 
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JubayerRiyad&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
-
-<br/>
-<br/>
-
-
-
-
-
-## :trophy: Jubayer Riyad Github Stats:
-
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
-
-
-
-
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
@@ -265,16 +244,3 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p> 
 
-
-
-
-[website]: JubayerRiyad.com
-[linkedin]: https://www.linkedin.com/in/JubayerRiyad/
-[twitter]: https://www.whitter.com/JubayerRiyad/
-[youtube]: https://www.youtube.com/@JubayerRiyad/
-[instagram]: https://www.instagram.com/jubayer_riyad/
-[github]: https://www.github.com/JubayerRiyad/
-[portfolio]: https://www.behance.net/JubayerRiyad/
-[behance]: https://www.behance.net/JubayerRiyad/
-[dribbble]: https://www.dribbble.com/JubayerRiyad/
-[tiktok]: https://www.tiktok.com/@jubayerriyad/
