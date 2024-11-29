@@ -12,7 +12,7 @@
 
 ### Skills:
 - Python,C#
-- HTML, CSS, JavaScript, React JS, Vue.js,Twilind Css
+- HTML, CSS, JavaScript, React JS, Vue js,Tailwind CSS
 - PHP & mySQL (PHP Frameworks)
 - Shopify, eCommerce, Woocommerce
 - Fluent conversation
