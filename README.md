@@ -1,12 +1,8 @@
-# Hi there 👋
-
-![Pavlo Bondar](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Pavlo+Bondar;Pavlo Bondar)
-
+# Hi there, I'm Pavlo. 👋
 
 ## 🎓 I'm a eCommerce|Fullstack Developer!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on Upwork.
-- 🌱 I’m currently learning Blockchain.
+- 🔭 I’m currently working on the Upwork Platform.
+- 🌱 I’m currently learning about AI.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
 
