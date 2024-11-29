@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🎓 I'm Pavlo Bondar,a eCommerce|Fullstack Developer!!
+## 🎓 I'm Pavlo Bondar,an eCommerce|Fullstack Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on Upwork.
 - 🌱 I’m currently learning Blockchain.
@@ -8,8 +8,8 @@
 - 😄 Pronouns: Him/His
 
 ### Skills:
-- Python,C#, Liquid
-- HTML, CSS, JavaScript, React JS, Vue.js,Twilind Css
+- Python, C#, Liquid
+- HTML, CSS, JavaScript, React Js, Vue Js,Twilind CSS
 - PHP & mySQL (PHP Frameworks)
 - Shopify, eCommerce, Woocommerce
 - Fluent English Conversation
